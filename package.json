@@ -2,6 +2,7 @@
   "name": "react-app",
   "version": "0.0.0",
   "scripts": {
+    "build": "webpack",
     "dev": "webpack serve --mode development --port 5050",
     "validate": "tsc --noEmit --checkJs"
   },
