@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "lodash-es": "^4.17.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "styled-components": "^5.3.9"
   },
   "devDependencies": {
@@ -24,8 +26,6 @@
     "css-loader": "^6.7.3",
     "html-webpack-plugin": "^5.5.0",
     "prettier": "^2.8.7",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
     "style-loader": "^3.3.2",
     "typescript": "^5.0.4",
     "webpack": "^5.79.0",
